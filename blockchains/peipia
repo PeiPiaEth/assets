@@ -1,0 +1,35 @@
+{
+    "name": "PeiPia Inu",
+    "symbol": "PEIPIA",
+    "type": "coin",
+    "decimals": 18,
+    "description": "Peipia Inu is an Ethereum-based, community-driven meme coin with a single mission: to redefine the meme coin world. Honoring the iconic meme that has captured the hearts of millions, Peipia Inu is driven by memetic power, focusing on bringing joy and laughter to the masses. Peipia Inu is not just a token; it's a movement for the people, aiming to become a powerful symbol for those who believe in the fun side of crypto",
+    "website": "https://www.peipia-inu.com/",
+    "explorer": "https://etherscan.io/address/0x4ee3f4aa86f72d9568e8ae6d8ee4444380dd8e49",
+    "logo": "https://peipia-inu.com/logo.png",
+    "status": "active",
+    "id": "https://etherscan.io/address/0x4ee3f4aa86f72d9568e8ae6d8ee4444380dd8e49",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/PeiPiaInuCoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/peipiainu_community"
+        },
+        {
+            "name": "whitepaper",
+            "url": "http://peipia-inu.com/peipia_inu_whitepaper.html"
+        },
+        {
+            "name": "coinmarket",
+            "url": "https://coinmarketcap.com/dexscan/ethereum/0x3dda03cf34867a102d62ccb2ab9926f3ba5e58f7/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.geckoterminal.com/tr/eth/pools/0x3dda03cf34867a102d62ccb2ab9926f3ba5e58f7"
+        }
+    ],
+    "tags": ["memes"]
+}
